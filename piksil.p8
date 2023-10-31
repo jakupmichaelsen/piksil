@@ -15,7 +15,8 @@ end
 
 function _update()
 
-	
+-- yoyoyo -- 
+
 -- player movement -- 
 
 if stimer<ani_speed then 
